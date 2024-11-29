@@ -12,8 +12,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore OS generated files
-.DS_Store
-Thumbs.db
+# .DS_Store
+# Thumbs.db
 
 # Ignore build output
 dist/
